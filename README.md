@@ -1,0 +1,1 @@
+# cordova_erreur_license
